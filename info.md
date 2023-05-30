@@ -36,3 +36,5 @@
 [Памятка часть 1](https://habr.com/ru/articles/541258/)
 
 [Памятка часть 2](https://habr.com/ru/articles/542616/)
+
+![картинка](pic1.jpg)
