@@ -31,3 +31,8 @@
 **git commit --amend -m “text”** - изменение текста последнего коммита
 
 **git reset HEAD~**  - удалить последний коммит
+>Полезные ссылки
+
+[Памятка часть 1](https://habr.com/ru/articles/541258/)
+
+[Памятка часть 2](https://habr.com/ru/articles/542616/)
